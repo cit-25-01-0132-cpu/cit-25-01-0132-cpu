@@ -34,3 +34,11 @@
 <p align="center">
   <i>"Learning every day, growing one step at a time." ✨</i>
 </p>
+
+
+### 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,js,git,github" />
+</p>
+
