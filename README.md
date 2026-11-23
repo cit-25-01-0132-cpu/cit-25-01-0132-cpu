@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center"> Hi, i'm Yuvia!👋</h1>
 
-<!--
-**cit-25-01-0132-cpu/cit-25-01-0132-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Exploring technology, coding and building something meaningful.</i>
+</p>
+<p align="center">
+   🌷 Cyber Security Undergraduate
+  <br>
+  💻 Python Learner | 🤖 Exploring AI & Machine Learning
+</p>
+---
+### 🌷 About Me
 
-Here are some ideas to get you started:
+- 🎓 I'm an undergraduate in Cyber Security.
+- 💻 Currently learning Python and software development.
+- 🤖 Interested in Machine Learning and Artificial Intelligence.
+- ✨ I love learning new things and exploring technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+
+- Python
+- Machine Learning
+- Git & GitHub
+
+### 🎯 My Goals
+
+- Build meaningful projects.
+- Improve my programming skills.
+- Explore new technologies.
+- Grow as a developer.
+
+---
+
+<p align="center">
+  <i>"Learning every day, growing one step at a time." ✨</i>
+</p>
