@@ -42,3 +42,16 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,js,git,github" />
 </p>
 
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cit-25-01-0132-cpu&show_icons=true&theme=default" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cit-25-01-0132-cpu&layout=compact&theme=default" height="165" />
+</p>
+
